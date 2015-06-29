@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74E0A75E-4558-4710-B14F-1E34689641F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDABCDED-F872-4CC8-83A4-9D038FE1732D}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "PortlandTelangana", "src\PortlandTelangana\PortlandTelangana.xproj", "{5D97D931-8732-43C8-B623-F4C8294A260F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D97D931-8732-43C8-B623-F4C8294A260F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D97D931-8732-43C8-B623-F4C8294A260F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D97D931-8732-43C8-B623-F4C8294A260F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D97D931-8732-43C8-B623-F4C8294A260F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D97D931-8732-43C8-B623-F4C8294A260F} = {74E0A75E-4558-4710-B14F-1E34689641F6}
+	EndGlobalSection
+EndGlobal
