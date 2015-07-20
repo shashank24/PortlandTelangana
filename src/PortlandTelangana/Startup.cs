@@ -6,6 +6,9 @@ using Microsoft.AspNet.Builder;
 using Microsoft.AspNet.Http;
 using Microsoft.Framework.DependencyInjection;
 
+/// <summary>
+/// http://stephenwalther.com/archive/2015/01/17/asp-net-5-and-angularjs-part-4-using-entity-framework-7
+/// </summary>
 
 namespace PortlandTelangana
 {
