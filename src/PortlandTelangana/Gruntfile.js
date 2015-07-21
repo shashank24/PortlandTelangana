@@ -40,20 +40,6 @@ module.exports = function (grunt) {
             }
         }
         
-        //bowercopy: {
-        //    options: {
-        //        srcPrefix: 'bower_components'
-        //    },
-        //    scripts: {
-        //        options: {
-        //            destPrefix: 'scripts/vendor'
-        //        },
-        //        files: {
-        //            'jquery/jquery.js': 'jquery/jquery.js',
-        //            'angular/angular.js': 'angular/angular.js'
-        //        }
-        //    }
-        //}
     });
 
     grunt.loadNpmTasks("grunt-contrib-clean");
